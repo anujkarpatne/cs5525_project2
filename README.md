@@ -1,11 +1,10 @@
-# CS5525 Project2 - Getting Started
+# CS5525 Project2 - Getting Started on Using rlogin.cs.vt.edu
 
-Open terminal on your machine, type in:
+Open a terminal on your machine, type in:
 
 `ssh -L 8000:localhost:xxxx username@rlogin.cs.vt.edu`
 
-Replace "xxxx" with an arbitrary 4 digits number, for example 8765. We will use this number later, let's use xxxx to denote it.
-Replace "username" with your vt id, for example "kklein".
+Replace "xxxx" with an arbitrary 4 digits number, for example 8765. Replace "username" with your vt id, for example "kklein".
 After login,execute the following command line by line:
 	
 ```
